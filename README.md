@@ -1,2 +1,2 @@
-# sample-project-management
+This is a simple, responsive personal portfolio website built using only HTML and CSS. It includes sections for an introduction, project showcases, and contact information. The design is minimal and easy to customize, making it a perfect starting point for developers and designers who want to create a clean online presence without complex frameworks or dependencies.# sample-project-management
 This repository contains a simple project demonstrating Agile  workflow using GitHub.
